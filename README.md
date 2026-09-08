@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/santhosh481/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/santhosh481/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/santhosh481/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/santhosh481/leetcode-solutions/tree/master/0037-sudoku-solver) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/santhosh481/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/santhosh481/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/santhosh481/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/santhosh481/leetcode-solutions/tree/master/0037-sudoku-solver) |
 ## Trie
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/santhosh481/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/santhosh481/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/santhosh481/leetcode-solutions/tree/master/0037-sudoku-solver) |
 ## Linked List
 |  |
 | ------- |
@@ -167,4 +170,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/santhosh481/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/santhosh481/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/santhosh481/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/santhosh481/leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
