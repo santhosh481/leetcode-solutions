@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/santhosh481/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/santhosh481/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/santhosh481/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/santhosh481/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/santhosh481/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/santhosh481/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/santhosh481/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/santhosh481/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 ## Linked List
 |  |
 | ------- |
